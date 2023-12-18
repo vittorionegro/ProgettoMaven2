@@ -6,7 +6,7 @@
   <name>ProgettoMaven</name>
   
   <properties>
-    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compilersource>1.7</maven.compilersource>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
   
